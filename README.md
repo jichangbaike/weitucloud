@@ -111,14 +111,9 @@
 
 ## 平台支持与客户端指引
 
-唯兔云支持主流平台（以官网及公开反馈为准）：
+为了更好的用户体验，**唯兔云目前只能用自研客户端**，不支持第三方客户端。
 
-- **桌面端（Windows / macOS / Linux）**：Clash Verge Rev、Clash for Windows、v2rayN 等（Trojan 兼容）。  
-- **移动端**：  
-  - iOS：Shadowrocket、Stash、Quantumult X、Surge 等（合规渠道获取）；  
-  - Android：Clash for Android、v2rayNG 等。  
-
-**订阅导入通用步骤**：登录官网 → 获取订阅链接 → 在客户端导入 → 测试节点连接。
+自研客户端覆盖了Windows、Mac、 IOS和Android设备，可以在官网直接下载使用，具体配置说明可以找在线客服。
 
 > 客户端获取及配置请参考官网，避免不明来源下载。
 
