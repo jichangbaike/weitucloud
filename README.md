@@ -1,10 +1,10 @@
-# 唯兔云（WeituYun）官网地址入口说明与多平台使用指南
+# 唯兔云（WeituCloud）官网地址入口说明与多平台使用指南
 
-**唯兔云（WeituYun）** 是一家由海外团队运营的跨境网络加速服务商，成立于 2025 年。 采用 **SS 协议 + 全 IPLC 专线** 架构，提供不限速、不限制客户端数量的连接体验。
+**唯兔云（WeituCloud）** 是一家由海外团队运营的跨境网络加速服务商，成立于 2025 年。 采用 **SS 协议 + 全 IPLC 专线** 架构，提供不限速、不限制客户端数量的连接体验。
 
 唯兔云支持 Netflix、Disney+ 等海外流媒体，支持 ChatGPT 等 AI 工具的访问，兼容常见的客户端，支持一键导入。
 
-> **仓库说明**：本仓库用于整理**唯兔云（WeituYun）** 的官网注册入口、套餐信息、节点概览、多平台使用指引及常见问题，仅汇总公开信息，请以官网公布为准。 
+> **仓库说明**：本仓库用于整理**唯兔云（WeituCloud）** 的官网注册入口、套餐信息、节点概览、多平台使用指引及常见问题，仅汇总公开信息，请以官网公布为准。 
 > 
 > **最后更新**：2026 年 4 月 17 日
 
@@ -12,7 +12,7 @@
 
 ## 快速入口
 
-- 👉 **唯兔云 WeituYun 官网注册入口**：  
+- 👉 **唯兔云 WeituCloud 官网注册入口**：  
   [https://finalto.xyz/3SWeP9](https://finalto.xyz/3SWeP9)
 
 建议在桌面浏览器中打开链接，完成账号注册与套餐选购。
@@ -105,7 +105,7 @@
 
 ## 下载测速和流媒体测试
 
-<img src="https://raw.githubusercontent.com/jichangbaike/weituyun/refs/heads/main/images/weitucloud-test-20260312.png" alt="唯兔云下载测速和流媒体测试">
+<img src="https://raw.githubusercontent.com/jichangbaike/weitucloud/refs/heads/main/images/weitucloud-test-20260312.png" alt="唯兔云下载测速和流媒体测试">
 
 > 测试时间：2026-03-12，网络：电信 1Gbps（单线程）
 
